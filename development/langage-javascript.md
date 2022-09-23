@@ -7,7 +7,7 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les `structures` de base du langage ✔️
-- les normes `ecmascript`  ✔️
+- les normes `ecmascript`  ❌ / ✔️
 - l'utilisation de l'`asynchrone` ✔️
 - les spécifités du mot-clef `this` ❌ / ✔️
 
