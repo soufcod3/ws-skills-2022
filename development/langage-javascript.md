@@ -7,8 +7,8 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les `structures` de base du langage ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
+- les normes `ecmascript`  ✔️
+- l'utilisation de l'`asynchrone` ✔️
 - les spécifités du mot-clef `this` ❌ / ✔️
 
 ## 💻 Je code en Javascript
